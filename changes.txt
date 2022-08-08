@@ -30,3 +30,5 @@ index f2301df..7704b88 100644
 + this second line is the second modification
 + this is the third modification
 \ No newline at end of file
+On branch master
+nothing to commit, working tree clean
