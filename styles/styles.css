@@ -12,7 +12,7 @@ body
     width:70%;
     padding:1em;
     text-align:left;
-    border:1px solid #ddd;
+    border:10px solid rgba(17, 6, 161, 0.726);
     margin:0 auto
 }
 #container h1
