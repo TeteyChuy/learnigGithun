@@ -1,0 +1,34 @@
+commit f75bed0b0ea0fda584b620ca10ed30b917137946
+Author: Chesc <marco.antonio.lopezjal@gmail.com>
+Date:   Mon Aug 8 12:23:00 2022 -0500
+
+    second modification
+
+diff --git a/coment.txt b/coment.txt
+index 3c7d146..f2301df 100644
+--- a/coment.txt
++++ b/coment.txt
+@@ -1 +1,2 @@
+-Hello, this is the firs file of git 
++Hello, this was the firs file of git 
++ this second line is the second modification
+\ No newline at end of file
+commit d997e5450ef4cb6976a3fdec07b7a74622bb1b17
+Author: Chesc <marco.antonio.lopezjal@gmail.com>
+Date:   Mon Aug 8 12:25:16 2022 -0500
+
+    thirdd modification
+
+diff --git a/coment.txt b/coment.txt
+index f2301df..7704b88 100644
+--- a/coment.txt
++++ b/coment.txt
+@@ -1,2 +1,3 @@
+ Hello, this was the firs file of git 
+- this second line is the second modification
+\ No newline at end of file
++ this second line is the second modification
++ this is the third modification
+\ No newline at end of file
+On branch master
+nothing to commit, working tree clean
