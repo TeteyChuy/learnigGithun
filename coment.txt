@@ -1,2 +1,3 @@
 Hello, this was the firs file of git 
  this second line is the second modification
+ this is the third modification
